@@ -3,8 +3,6 @@
 
 
 ## What I want to do:
-
-
 ```js
 const editJsonFile = require("edit-json-file")
 
@@ -15,8 +13,6 @@ file.save()
 ```
 
 ## Original version's result:
-
-
 ```json
 {
  "451445988612374500": {}
@@ -24,7 +20,6 @@ file.save()
 ```
 
 ## My personal version's result:
-
 ```json
 {
  "451445988612374539": {}
